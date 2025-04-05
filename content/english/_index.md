@@ -1,53 +1,71 @@
 ---
-# Banner
-banner:
-  title: "The Ultimate 250401 Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
-
-# Features
-features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+title: "AI Assistant, Made Simple!"
+description: "Start chatting instantly. Let the AI ask first and guide you through every step."
+type: "homepage"
+date: 2025-04-01T00:00:00+00:00
+draft: false
 ---
+
+## Meet Your First AI Assistant — It's Easier Than You Think! 🤖
+
+---
+
+### 🤯 “AI seems complicated… I don’t know how to use it!”
+
+Feeling overwhelmed by all the options and settings?
+
+- “What should I even ask?”
+- “There are too many features!”
+- “I’m not getting the answers I need…”
+
+You're not alone.  
+**Many beginners feel the same way.**
+
+> AI can feel intimidating at first, but it doesn’t have to be.
+
+---
+
+### 🔥 Smart Suggestions Make It Easy to Start!
+
+Now, your AI assistant leads the way:
+
+- 🗨️ Suggested keyword bubbles help you start the conversation.
+- 🧠 Expert Mode offers preset prompts for deeper control.
+- 😌 Don’t know what to ask? We’ll give you ideas!
+
+**Example:**  
+You think: *"What should I eat for dinner?"*  
+👉 AI replies: *"How about one of these ideas?"*
+
+---
+
+### ✨ Life’s Easier with an AI Assistant by Your Side
+
+Once you start using it, everything gets smoother:
+
+- You know how to ask and get the answers you need.
+- You save time and make better decisions.
+
+> "With Expert Mode, I get exactly the info I need."  
+> "Now the AI asks me first — it’s so convenient!"
+
+---
+
+### 🎯 Try It Now — No Sign-Up Required!
+
+It takes just 3 seconds to begin.  
+Start chatting with your AI right away.
+
+✅ No login needed  
+✅ Personalized experience  
+✅ Quick and free to try!
+
+👉 **[Meet Your AI Assistant](#)**  
+👉 **[Try It for Free Now](#)**
+
+---
+
+**Worried about getting started?**  
+Let your AI assistant guide you from the beginning.  
+**Start now and make AI work for you!**
+ㄴ
